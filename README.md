@@ -22,6 +22,6 @@ Sou formado em Ciência da Computação pela Universidade Paulista (UNIP).
 ## Projetos:
 Veja meus projetos publicados no github e blog pessoal:
 
-* **MyTwitterApi - case de uma aplicação onde são implementados os três pilares da Observabilidade (Logs, Métricas e Eventos):** https://github.com/ezequielsbarros/mytwitterapi
+* **MyTwitterApi - Case de implementação dos três pilares da observabilidade:** https://bit.ly/mytwitterapi
 
 ---
