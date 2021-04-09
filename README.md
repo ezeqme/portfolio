@@ -11,7 +11,7 @@ Atuamente estou estudando Data Science para entender como implementar e ter suce
 
 Sou formado em Ciência da Computação pela Universidade Paulista (UNIP).
 
-**Habilidades em:** Python, Linux, Cloud Computing (AWS), Ansible, Puppet
+**Habilidades em:** Python, Linux, Cloud Computing (AWS), Ansible, Puppet, Apache HTTP, Nginx.
 
 **Links:**
 
