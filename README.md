@@ -20,8 +20,12 @@ Sou formado em Ciência da Computação pela Universidade Paulista (UNIP).
 
 
 ## Projetos:
-Veja meus projetos publicados no github e blog pessoal:
+Veja meus projetos publicados no github e blog pessoal.
 
+Data Science:
+* **Análise dos Dados do Airbnb em Lisboa, Portugal:** http://bit.ly/AnaliseAirbnbLisboa
+
+Devops:
 * **MyTwitterApi - Case de implementação dos três pilares da observabilidade:** https://bit.ly/mytwitterapi
 
 ---
