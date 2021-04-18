@@ -25,7 +25,7 @@ Veja meus projetos publicados no github e blog pessoal.
 Data Science:
 * **Análise dos Dados do Airbnb em Lisboa, Portugal:** http://bit.ly/AnaliseAirbnbLisboa
 
-Devops:
+DevOps:
 * **MyTwitterApi - Case de implementação dos três pilares da observabilidade:** https://bit.ly/mytwitterapi
 
 ---
