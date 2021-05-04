@@ -16,7 +16,7 @@ Sou formado em Ciência da Computação pela Universidade Paulista (UNIP).
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/ezequielbarros/)
-* [Medium](https://medium.com/ezequielsbarros)
+* [Medium](https://ezequielsbarros.medium.com/)
 
 
 ## Projetos:
